@@ -1,6 +1,6 @@
 {
 "name": "DVPY stakepool",
-"description": "DVPY Stakepool",
+"description": "Raspberry Pi ADA Stakepool",
 "ticker": "DVPY",
 "homepage": "http://ada.dupy.org",
 "extended": "https://git.io/Jm6BI"
