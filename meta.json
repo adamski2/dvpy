@@ -1,18 +1,17 @@
 {
-    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
-    "info": {
+     "info": {
         "location": "Wroclaw, Poland",
         "social": {
            "telegram_handle": "adamski2"
         },
         "about": {
-              "server": "Raspberry Pi Hosted 1Gbps up/down",
-            },
+              "server": "Raspberry Pi Hosted in Poland 1Gbps up/down"
+            }
     },
     "my-pool-ids": {
         "0": "6af4bfc39b18915c95c60712b3971289432cff9c26b755b0487522fc"
     },
     "telegram-admin-handle": {
         "0": "adamski2"
-    },
+    }
 }
