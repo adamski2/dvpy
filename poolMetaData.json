@@ -1,0 +1,7 @@
+{
+"name": "ADA stakepool",
+"description": "RaspberryPi ADA Stakepool",
+"ticker": "DVPY",
+"homepage": "https://ada.dupy.org",
+"extended": "https://git.io/Jm6BI"
+}
